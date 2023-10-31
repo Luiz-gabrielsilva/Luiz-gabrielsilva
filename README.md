@@ -1,5 +1,21 @@
-- 👋 Hi, I am Luiz Gabriel
-- 👀 I am a studente of Data Science and Machine Learning
-- 🌱 I’m currently learning about Python and its frameworks in order to become a data scientist
-- 📫 You can contact me in this email: luizbiel.silva@gmail.com
+# Luiz Gabriel 👨‍💻
+
+## Sobre mim 📚
+Olá! Eu sou Luiz Gabriel, um cientista de dados apaixonado por transformar dados em insights valiosos. Com 20 anos de idade, estou em busca constante de aprimoramento e desejo me tornar o melhor profissional da área de dados. 💪
+
+## Objetivo 🎯
+Meu objetivo é continuar aprofundando meus conhecimentos na área de dados, explorando novas técnicas e ferramentas para extrair o máximo valor dos dados. Estou sempre em busca de desafios e projetos interessantes para aplicar minhas habilidades. ✨
+
+## Habilidades 🚀
+- Python 🐍
+- SQL 🗃️
+- Inglês 🌎
+- Machine Learning 🤖
+- Storytelling 📊
+- Outros 📚
+
+## Contato 📬
+Você pode entrar em contato comigo através dos seguintes meios:
+- Email 📧: luizdatascience42@gmail.com
+- LinkedIn 💼: https://www.linkedin.com/in/luiz-gabriel-da-silva-santana/
 
