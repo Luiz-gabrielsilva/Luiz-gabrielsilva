@@ -9,9 +9,10 @@ Meu objetivo é continuar aprofundando meus conhecimentos na área de dados, exp
 ## Habilidades 🚀
 - Python 🐍
 - SQL 🗃️
-- Inglês 🌎
 - Machine Learning 🤖
 - Storytelling 📊
+- Power BI 📈
+- Inglês 🌎
 - Outros 📚
 
 ## Contato 📬
