@@ -12,6 +12,7 @@ Meu objetivo é continuar aprofundando meus conhecimentos na área de dados, exp
 - Machine Learning 🤖
 - Storytelling 📊
 - Power BI 📈
+- Excel 🗂️
 - Inglês 🌎
 - Outros 📚
 
