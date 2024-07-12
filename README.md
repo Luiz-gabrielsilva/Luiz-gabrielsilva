@@ -1,11 +1,11 @@
-Luiz Gabriel 👨‍💻
-About Me 📚
+# Luiz Gabriel 👨‍💻
+## About Me 📚
 Hello! I'm Luiz Gabriel, a data scientist passionate about transforming data into valuable insights. At 20 years old, I am constantly seeking improvement and aim to become the best professional in the data field. 💪
 
-Objective 🎯
+## Objective 🎯
 My goal is to continue deepening my knowledge in the data field, exploring new techniques and tools to extract maximum value from data. I am always looking for challenges and interesting projects to apply my skills. ✨
 
-Skills 🚀
+## Skills 🚀
 Python 🐍
 SQL 🗃️
 Machine Learning 🤖
@@ -15,7 +15,8 @@ Excel 🗂️
 English 🌎
 Azure Databricks ☁️
 Others 📚
-Work Experience 💼
+
+## Work Experience 💼
 Soluti - Soluções em Negócios Inteligentes
 Data Intern (since 05/26/2023)
 
@@ -25,7 +26,8 @@ Database structuring, including creating tables and triggers, ensuring efficient
 Implementation, administration, and continuous monitoring of database solutions to ensure performance, security, and availability.
 Building dashboards for various business areas, from data treatment (bronze, silver, and gold layers), data analysis, insight generation, and dashboard construction.
 Implementation of Power BI Embedded in partnership with the company A2M.
-Contact 📬
+
+## Contact 📬
 You can reach me through the following channels:
 
 Email 📧: luizdatascience42@gmail.com
