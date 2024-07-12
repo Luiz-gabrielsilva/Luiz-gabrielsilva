@@ -1,23 +1,32 @@
-# Luiz Gabriel 👨‍💻
+Luiz Gabriel 👨‍💻
+About Me 📚
+Hello! I'm Luiz Gabriel, a data scientist passionate about transforming data into valuable insights. At 20 years old, I am constantly seeking improvement and aim to become the best professional in the data field. 💪
 
-## Sobre mim 📚
-Olá! Eu sou Luiz Gabriel, um cientista de dados apaixonado por transformar dados em insights valiosos. Com 20 anos de idade, estou em busca constante de aprimoramento e desejo me tornar o melhor profissional da área de dados. 💪
+Objective 🎯
+My goal is to continue deepening my knowledge in the data field, exploring new techniques and tools to extract maximum value from data. I am always looking for challenges and interesting projects to apply my skills. ✨
 
-## Objetivo 🎯
-Meu objetivo é continuar aprofundando meus conhecimentos na área de dados, explorando novas técnicas e ferramentas para extrair o máximo valor dos dados. Estou sempre em busca de desafios e projetos interessantes para aplicar minhas habilidades. ✨
+Skills 🚀
+Python 🐍
+SQL 🗃️
+Machine Learning 🤖
+Storytelling 📊
+Power BI 📈
+Excel 🗂️
+English 🌎
+Azure Databricks ☁️
+Others 📚
+Work Experience 💼
+Soluti - Soluções em Negócios Inteligentes
+Data Intern (since 05/26/2023)
 
-## Habilidades 🚀
-- Python 🐍
-- SQL 🗃️
-- Machine Learning 🤖
-- Storytelling 📊
-- Power BI 📈
-- Excel 🗂️
-- Inglês 🌎
-- Outros 📚
+Process automation and database management optimization.
+Development of custom scripts for data manipulation, automated report generation, and system integration.
+Database structuring, including creating tables and triggers, ensuring efficient and organized data storage.
+Implementation, administration, and continuous monitoring of database solutions to ensure performance, security, and availability.
+Building dashboards for various business areas, from data treatment (bronze, silver, and gold layers), data analysis, insight generation, and dashboard construction.
+Implementation of Power BI Embedded in partnership with the company A2M.
+Contact 📬
+You can reach me through the following channels:
 
-## Contato 📬
-Você pode entrar em contato comigo através dos seguintes meios:
-- Email 📧: luizdatascience42@gmail.com
-- LinkedIn 💼: https://www.linkedin.com/in/luiz-gabriel-da-silva-santana/
-
+Email 📧: luizdatascience42@gmail.com
+LinkedIn 💼: LinkedIn
