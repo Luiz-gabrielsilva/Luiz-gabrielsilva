@@ -17,15 +17,15 @@ My goal is to continue deepening my knowledge in the data field, exploring new t
 - Others 📚
 
 ## Work Experience 💼
-Soluti - Soluções em Negócios Inteligentes
+Soluti - Soluções em Negócios Inteligentes <br>
 Data Intern (since 05/26/2023)
 
-Process automation and database management optimization.
-Development of custom scripts for data manipulation, automated report generation, and system integration.
-Database structuring, including creating tables and triggers, ensuring efficient and organized data storage.
-Implementation, administration, and continuous monitoring of database solutions to ensure performance, security, and availability.
-Building dashboards for various business areas, from data treatment (bronze, silver, and gold layers), data analysis, insight generation, and dashboard construction.
-Implementation of Power BI Embedded in partnership with the company A2M.
+- Process automation and database management optimization.
+- Development of custom scripts for data manipulation, automated report generation, and system integration.
+- Database structuring, including creating tables and triggers, ensuring efficient and organized data storage.
+- Implementation, administration, and continuous monitoring of database solutions to ensure performance, security, and availability.
+- Building dashboards for various business areas, from data treatment (bronze, silver, and gold layers), data analysis, insight generation, and dashboard construction.
+- Implementation of Power BI Embedded in partnership with the company A2M.
 
 ## Contact 📬
 You can reach me through the following channels:
