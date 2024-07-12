@@ -6,15 +6,15 @@ Hello! I'm Luiz Gabriel, a data scientist passionate about transforming data int
 My goal is to continue deepening my knowledge in the data field, exploring new techniques and tools to extract maximum value from data. I am always looking for challenges and interesting projects to apply my skills. ✨
 
 ## Skills 🚀
-Python 🐍
-SQL 🗃️
-Machine Learning 🤖
-Storytelling 📊
-Power BI 📈
-Excel 🗂️
-English 🌎
-Azure Databricks ☁️
-Others 📚
+- Python 🐍
+- SQL 🗃️
+- Machine Learning 🤖
+- Storytelling 📊
+- Power BI 📈
+- Excel 🗂️
+- English 🌎
+- Azure Databricks ☁️
+- Others 📚
 
 ## Work Experience 💼
 Soluti - Soluções em Negócios Inteligentes
